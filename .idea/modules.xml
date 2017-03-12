@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodeByMalei.iml" filepath="$PROJECT_DIR$/CodeByMalei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autocompletetextview/autocompletetextview.iml" filepath="$PROJECT_DIR$/autocompletetextview/autocompletetextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentstart/fragmentstart.iml" filepath="$PROJECT_DIR$/fragmentstart/fragmentstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newsapp/newsapp.iml" filepath="$PROJECT_DIR$/newsapp/newsapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notication/notication.iml" filepath="$PROJECT_DIR$/notication/notication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/propertyanimator/propertyanimator.iml" filepath="$PROJECT_DIR$/propertyanimator/propertyanimator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smsbackup/smsbackup.iml" filepath="$PROJECT_DIR$/smsbackup/smsbackup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smsmonitor/smsmonitor.iml" filepath="$PROJECT_DIR$/smsmonitor/smsmonitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tweenanim/tweenanim.iml" filepath="$PROJECT_DIR$/tweenanim/tweenanim.iml" />
+    </modules>
+  </component>
+</project>
