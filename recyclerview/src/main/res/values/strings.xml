@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="swipe_to_refresh">swipe_to_refresh</string>
+</resources>
