@@ -52,7 +52,7 @@ public class NewsAdapter extends BaseAdapter {
             view = View.inflate(context, R.layout.item_news_layout,null);//将一个布局文件转换成一个view对象
 
         } else
-            view = convertView;
+        {view = convertView;}
         //2.获取view上的子控件对象
         TextView item_tv_des = (TextView) view.findViewById(R.id.item_tv_des);
         TextView item_tv_title = (TextView) view.findViewById(R.id.item_tv_title);
